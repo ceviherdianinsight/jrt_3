@@ -102,3 +102,23 @@ The two lines together create a “channel” within which price moves. The uppe
 <a id="4"></a>
 #### 4. How to Trade Support and Resistance
 
+The article explains how to trade around support and resistance levels by using two main strategies: the Bounce (price holds at a S/R level) and the Break (price convincingly breaks through a S/R level). 
+
+It emphasises the importance of waiting for confirmation rather than jumping straight in when price touches those levels. 
+
+* Bounce strategy:
+  - Wait for price to approach a support (or resistance) zone and confirm a bounce before entering a trade.
+  - Avoid placing an entry right on the line expecting it to hold without any confirmation. 
+* Break strategy:
+  - Recognise that support/resistance levels do break, so you must also know how to trade after a break.
+  - Two ways to trade the break:
+    - Aggressive: enter immediately when price convincingly breaks a zone.
+    - Conservative: wait for a pull-back to the broken level (now acting as the opposite S/R) and enter after confirmation. 
+* Confirmation matters:
+  - Waiting for price behaviour (bounce or retest) reduces risk of being caught in a false move.
+  - Use stop-loss orders: “Never ever hold on to a trade just because of hope”. 
+* Support/Resistance as zones, not lines: Price may briefly pierce levels (shadows/wicks) without meaning a genuine break. 
+* Role reversal: Once a support breaks, it can become new resistance; once resistance breaks, it can turn into support. (Implied within the “break” strategy discussion).
+
+<a name="id"></a>
+[**Back to HOME**](#100)
