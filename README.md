@@ -11,8 +11,9 @@
 
 [4-How to Trade Support and Resistance](#4)
 
+[5-Psychological Levels](#5)
 
-
+[6-Summary: Trading Support and Resistance](#6)
 
 
 
@@ -122,3 +123,50 @@ It emphasises the importance of waiting for confirmation rather than jumping str
 
 <a name="id"></a>
 [**Back to HOME**](#100)
+
+
+
+<a id="5"></a>
+#### 5. Psychological Levels
+
+* A psychological level is a price level perceived as important by traders and investors, usually because it’s a round number or because it has previously acted as support/resistance.
+* These levels aren’t inherently valuable by fundamentals, they gain significance because of collective trader behaviour & perception.
+* Examples:
+  - Round numbers ending in “00” (e.g., 100.00, 1.5000) or halfway points like “50”.
+  - Previous highs/lows that market participants remember or anchor on.
+  - Major moving averages or other levels which have a history of price reactions, if widely watched, they can become psychological levels. 
+* Why they matter:
+  - Because many traders expect price to react at these levels (“bounce” or “break”), there tends to be increased buying or selling pressure when price approaches them.
+  - That pressure can create predictable patterns: price may slow, stall, reverse, or break out with momentum at these levels. 
+* How to trade them:
+  - Identify the psychological levels by looking for round numbers, major prior reaction points, or widely followed moving averages.
+  - Observe price behaviour as it approaches the level, look for increased volatility, clusters of orders, or signs of traders reacting.
+  - Plan entries/exits: e.g., if price is bouncing off a psychological level, consider entry near the level with a stop just beyond it; if price breaks through, a breakout trade may be triggered. 
+* Caveats:
+  - Although psychological levels often influence price, they are not guaranteed to hold, they must be confirmed by price action.
+  - They work best when combined with other technical tools (support/resistance zones, trend lines, volume, etc.).
+  - Be aware of “false breaks”: price may briefly cross (“wick through”) a level then revert.
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="6"></a>
+#### 6. Summary: Trading Support and Resistance
+
+* Support & resistance should be seen as zones, not exact lines.
+* A support level is formed when price makes a low before bouncing back; a resistance level is when price makes a high before pulling back.
+* Support can become resistance (and vice-versa) when price breaks through and roles reverse. This concept is called role reversal.
+* There are three basic trend types relevant to support/resistance:
+  - Uptrend (higher lows)
+  - Downtrend (lower highs)
+  - Sideways/ranging market 
+* One way to trade S & R:
+  - Bounce strategy: Enter when price bounces off a support/resistance zone.
+  - Break strategy: Enter when price convincingly breaks through the zone — either aggressively (right on break) or conservatively (after a pullback to the broken level).
+ 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
