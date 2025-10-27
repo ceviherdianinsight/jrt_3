@@ -15,6 +15,15 @@
 
 [6-Summary: Trading Support and Resistance](#6)
 
+[7-What is a Japanese Candlestick?](#7)
+
+[8-Japanese Candlestick Anatomy](#8)
+
+[9-Basic Japanese Candlestick Patterns](#9)
+
+
+
+
 
 
 
@@ -168,5 +177,46 @@ It emphasises the importance of waiting for confirmation rather than jumping str
  
 <a name="id"></a>
 [**Back to HOME**](#100)
+
+
+<a id="7"></a>
+#### 7. What is a Japanese Candlestick?
+
+* A Japanese candlestick is a way of showing price action for a specific time-frame based on open, high, low, and close values.
+* Structure:
+  - The “real body” is the part between the open and close.
+  - The “shadows” (wicks) extend above and/or below the body to show the high and low for that period. 
+* Colour/Fill convention:
+  - If close > open → candle is hollow/white (or green) = bullish.
+  - If close < open → candle is filled/black (or red) = bearish. 
+* Interpretation nuances:
+  - A long body implies strong buying or selling pressure.
+  - Long shadows show that price moved significantly beyond the open/close during the period, indicating volatility or rejection of extremes. 
+* Practical use: Candlesticks can be used across any time frame (minutes to days) and are foundational for many pattern-based strategies in trading.
+* Caution: A single candlestick or pattern by itself does not guarantee a reversal or continuation, context, market conditions and confirmation matter.
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="8"></a>
+#### 8. Japanese Candlestick Anatomy
+
+* Long candlestick bodies indicate strong buying or selling pressure. The longer the body, the more dominant the buyers or sellers were during that session.
+* Short candlestick bodies imply lower volatility and less decisive movement between open and close.
+* Shadows (wicks) provide insights into intra-period price behaviour:
+  - A long upper shadow and short lower shadow means buyers pushed price up, but sellers drove it back down before close.
+  - A long lower shadow and short upper shadow means sellers drove price down, but buyers forced it back up before close. 
+* Body and shadow combinations help interpret market sentiment:
+  - Dominant body with minimal shadows → strong directional conviction.
+  - Large shadows with small body → indecision, rejection or reversal potential.
+* Candlestick anatomy is context-dependent: you must consider where the candle forms (trend, support/resistance, timeframe) to evaluate its significance.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="9"></a>
+#### 9. Basic Japanese Candlestick Patterns
 
 
