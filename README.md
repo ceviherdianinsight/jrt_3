@@ -216,7 +216,20 @@ It emphasises the importance of waiting for confirmation rather than jumping str
 <a name="id"></a>
 [**Back to HOME**](#100)
 
+
 <a id="9"></a>
 #### 9. Basic Japanese Candlestick Patterns
+
+* The lesson covers three foundational candlestick types: Spinning Top, Marubozu, and Doji.
+* Spinning Top: Characterised by a small real body with long upper and lower shadows. Indicates indecision between buyers and sellers.
+* Marubozu: A candlestick with no shadows (i.e., open = low and close = high for a bullish version, or open = high and close = low for a bearish version). Shows strong directional conviction.
+* Doji: A candle where the open and close are virtually the same (very small body). Signals market balance or indecision—buyers and sellers are evenly matched.
+* Placement matters:
+  - A Spinning Top or Doji appearing after a long uptrend suggests possible buyer exhaustion (reversal risk).
+  - A Marubozu in the direction of the trend often signals continuation; placed at the end of a trend it may signal reversal. 
+* Candlestick patterns on their own are not guarantees of future direction, they should be used in context (trend, support/resistance, volume) and ideally with confirmation. 
+
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
