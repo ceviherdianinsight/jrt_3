@@ -34,7 +34,7 @@ ____
   - Look for areas where price has reversed or paused multiple times. 
 * Important warnings:
   - Price can “test” a level (i.e., penetrate briefly or create wicks) without genuinely breaking it.
-  - Don’t rely solely on one time-frame or one support/resistance line—higher time-frame levels tend to be stronger. 
+  - Don’t rely solely on one time-frame or one support/resistance line, higher time-frame levels tend to be stronger. 
 
 
 
