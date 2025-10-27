@@ -9,6 +9,9 @@
 
 [3-Trend Channels](#3)
 
+[4-How to Trade Support and Resistance](#4)
+
+
 
 
 
@@ -57,7 +60,7 @@ While useful, trend lines are not infallible: they can be subjective, and every 
 * Drawing rules:
   - Connect at least two relevant highs/lows; more touches strengthen the line.
   - After drawing, extend the line forward to project future possible support or resistance.
-  - Do not force the market to fit a trend line — if price clearly rejects the line or the slope becomes unrealistic, redraw. 
+  - Do not force the market to fit a trend line, if price clearly rejects the line or the slope becomes unrealistic, redraw. 
 * How to trade with trend lines:
   - Bounce strategy: price approaches the trend line and bounces off it → trade in direction of trend.
   - Break strategy: price breaks through the trend line (especially with conviction/volume) → this can signal a trend reversal or acceleration. 
@@ -70,4 +73,32 @@ While useful, trend lines are not infallible: they can be subjective, and every 
 
 <a id="3"></a>
 #### 3. Trend Channels
+
+A trend channel is formed by drawing a primary trend-line (in an uptrend: connecting higher lows; in a downtrend: lower highs) and then drawing a parallel line at the same angle to capture the opposite extreme of price action. 
+
+The two lines together create a “channel” within which price moves. The upper line acts as a kind of resistance, and the lower line acts like support in the channel. Channels can slope up (ascending), slope down (descending), or be horizontal (sideways/ranging). 
+
+*  Definition: A trend channel is a set of parallel trend lines defined by the highs & lows of price action.
+*  Types:
+   - Ascending channel: higher highs + higher lows (bullish).
+   - Descending channel: lower highs + lower lows (bearish).
+   - Horizontal channel: equal highs & lows (ranging market). 
+*  How to draw:
+   - Identify the main trend-line (connecting major highs or lows).
+   - Draw a parallel line at the same angle, touching the opposite extreme (peaks or valleys) to form the channel.
+   - Both lines must be roughly parallel; if they diverge, you may be looking at a different pattern (triangle) rather than a pure channel. 
+*  Uses for trading:
+   - The lower channel line (in an ascending channel) can be a buy zone (support).
+   - The upper channel line can be a sell zone (resistance).
+   - A breakout above/below the channel may indicate a trend-acceleration or reversal. 
+*  Caveats:
+   - Channel lines don’t need to be perfectly parallel or contain all price action, real market behaviour is messy.
+   - Relying solely on textbook channel shapes is risky, practical flexibility is required.
+ 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="4"></a>
+#### 4. How to Trade Support and Resistance
 
